@@ -6,7 +6,8 @@ In this project, I created two state. One is to keep track of a counter and the 
 
 ## Person State Structure
 
-```[
+```
+[
     {
         name: "person name",
         age: person age
