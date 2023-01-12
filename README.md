@@ -6,12 +6,13 @@ In this project, I created two state. One is to keep track of a counter and the 
 
 ## Person State Structure
 
-````[
+```[
     {
         name: "person name",
         age: person age
     }
-]```
+]
+```
 
 ## Available Scripts
 
@@ -21,4 +22,3 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-````
